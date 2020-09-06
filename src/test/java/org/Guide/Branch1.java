@@ -8,9 +8,5 @@ public class Branch1 {
 
 	public void second() {
 		System.out.println("branch 2");
-
-}
-	public void third(){
-		system.out.println("branch 3");
 }
 }
