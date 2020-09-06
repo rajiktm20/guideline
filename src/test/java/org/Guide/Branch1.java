@@ -10,4 +10,7 @@ public class Branch1 {
 		System.out.println("branch 2");
 
 }
+	public void third(){
+		system.out.println("branch 3");
+}
 }
