@@ -9,4 +9,7 @@ public class Branch1 {
 	public void second() {
 		System.out.println("branch 2");
 }
+	public void third() {
+		System.out.println("branch 3");
+}
 }
